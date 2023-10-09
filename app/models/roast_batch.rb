@@ -1,0 +1,2 @@
+class RoastBatch < ApplicationRecord
+end
